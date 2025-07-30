@@ -1,0 +1,1 @@
+# AI-based-Electrical-Bulk-Material-Benchmarking
