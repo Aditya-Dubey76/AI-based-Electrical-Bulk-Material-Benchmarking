@@ -1,6 +1,6 @@
 # AI-based-Electrical-Bulk-Material-Benchmarking
 
-<img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/0526060d-c2e0-462d-b661-ae17a680771d" />&nbsp;&nbsp;&nbsp;
+<img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/0526060d-c2e0-462d-b661-ae17a680771d" />
 
 <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/b3feaec4-b44c-45ff-b143-eca131421c80" />
 
@@ -9,9 +9,9 @@
 ### For the dataset - use your own dataset and make all the necessary changes by taking help of the code files.
 
 ### ▶️ **How to Run**
-- ***Before going to step-1, please make sure you have the dataset in the same folder where all the code files are present.***
-- ***Step 1: Train Your Models - Before using the app, ensure forecasting models are trained by using python train_forecast_model.py. This generates a forecast_model.pkl file used by the app.*** 
-- ***Step 2: Launch the Streamlit App using streamlit run app.py***
+- ***Before going to Step-1, please make sure you have the dataset in the same folder where all the code files are present.***
+- ***Step-1 - Train Your Models - Before using the app, ensure forecasting models are trained by using python train_forecast_model.py. This generates a forecast_model.pkl file used by the app.*** 
+- ***Step-2 - Launch the Streamlit App using streamlit run app.py***
 
 
 
