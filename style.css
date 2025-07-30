@@ -1,0 +1,75 @@
+/* Main Background */
+.main {
+  background-color: #17313e;
+}
+
+/* Sidebar */
+[data-testid="stSidebar"] {
+  background-color: #415e72;
+}
+
+/* Block Container Padding */
+.block-container {
+  padding-top: 4rem;
+  padding-bottom: 2rem;
+}
+
+/* Title Styling */
+.title {
+  color: #fff1d5;
+  font-weight: 700;
+  font-size: 48px;
+  margin-left: -2.2rem;
+}
+
+/* Subtitle Styling */
+.subtitle {
+  font-size: 20px;
+  margin-bottom: 4rem;
+  margin-left: 1.5rem;
+  color: #ffffff;
+}
+
+/* Input Field Styling */
+.stNumberInput input {
+  background-color: #3c3d37;
+  color: #fff1d5;
+  border: none;
+  border-radius: 8px;
+  padding: 12px 16px;
+  font-size: 18px;
+}
+
+/* Button Styling */
+.stButton button {
+  background-color: #3b3131;
+  color: #fff1d5;
+  border: none;
+  border-radius: 8px;
+  padding: 12px 24px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+/* Button hover effect */
+.stButton button:hover {
+  background-color: #4a3b3b;
+}
+/* Button active effect */
+.stButton button:active {
+  background-color: #5a4b4b;
+}
+/* Button focus effect */
+.stButton button:focus {
+  outline: 2px solid #fff1d5;
+  outline-offset: 2px;
+}
+
+/* Forecast Metric Box */
+.metric-box {
+  background-color: #3c3d37;
+  padding: 10px;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  margin-bottom: 10px;
+}
